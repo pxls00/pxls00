@@ -1,5 +1,3 @@
-<div align="center">
-
 # <div align="center">Frontend Developer (Vue) / BSS</div>  
 
 # <div align="center">🚧 I am a young and talented frontend developer from Uzbekistan :)) 🚧</div>
