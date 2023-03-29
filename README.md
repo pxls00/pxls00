@@ -2,7 +2,9 @@
 
 # <div align="center">Frontend Developer (Vue) / BSS</div>  
 
-### <div align="center">🚧 I am a young and talented frontend developer from Uzbekistan :)) 🚧</div><br />
+### <div align="center">🚧 I am a young and talented frontend developer from Uzbekistan :)) 🚧</div>
+
+<br />
 
 - 🌱 I’m currently learning Testings, e2e, Integration tests, Functional tests, etc.
   
@@ -12,7 +14,9 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
+<table>
+<tr>
+<td valign="top" width="33%">  
 
 
 
@@ -32,9 +36,9 @@
 <a style="margin: 10px; display: inline-block;" href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="50" height="50"/> </a>
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
-
+<td valign="top" width="33%">
 
 ### Backend  
 <div align="center">  
@@ -45,7 +49,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
 
 
 ### DevOps  
@@ -63,6 +68,8 @@
 <a style="margin: 10px; display: inline-block;" href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/> </a>
 </div>
 
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 <br/>
