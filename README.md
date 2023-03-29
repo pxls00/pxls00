@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/pxls00/pxls00/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
-<img src="https://raw.githubusercontent.com/pxls00/pxls00/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/pxls00/pxls00/main/headergitdark.gif#gh-dark-mode-only" align="center" height="300" />
+<img src="https://raw.githubusercontent.com/pxls00/pxls00/main/headergitlight.gif#gh-light-mode-only" align="center" height="300" />
 </div>  
   
 
