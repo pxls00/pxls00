@@ -1,3 +1,9 @@
+<div align="center">
+<img src="https://raw.githubusercontent.com/pxls00/pxls00/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/pxls00/pxls00/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
+</div>  
+  
+
 # <div align="center">Frontend Developer (Vue) / BSS</div>
 
 # <div align="center">Hi 👋! I'm Nasirov Abdurahim. I'm frontend developer from Uzbekistan with love</div>
