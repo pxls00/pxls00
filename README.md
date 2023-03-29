@@ -81,3 +81,6 @@
 
 <img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=pxls00&theme=vue-dark&disable_animations=false&hide_border=true" alt="pxls00" />
 </div>
+
+
+![Snake animation](https://github.com/zieldecastro/zieldecastro/blob/output/github-contribution-grid-snake.svg)
