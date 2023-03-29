@@ -1,6 +1,6 @@
 # <div align="center">Frontend Developer (Vue) / BSS</div>
 
-# <div align="center">🚧 I am a young and talented frontend developer from Uzbekistan :)) 🚧</div>
+# <div align="center">I am a young and talented frontend developer from Uzbekistan :))</div>
 
 <br />
 
@@ -69,3 +69,9 @@
 </table>
 
 <br/>
+
+<div aling="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxls00&show_icons=true&locale=en" alt="pxls00" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxls00&" alt="pxls00" />
+</div>
