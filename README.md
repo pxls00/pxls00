@@ -70,8 +70,8 @@
 
 <br/>
 
-<div aling="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxls00&show_icons=true&locale=en" alt="pxls00" />
+<div aling="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxls00&show_icons=true&locale=en&theme=vue-dark&disable_animations=false&hide_border=true" alt="pxls00" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxls00&" alt="pxls00" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxls00&theme=vue-dark&disable_animations=false&hide_border=true" alt="pxls00" />
 </div>
