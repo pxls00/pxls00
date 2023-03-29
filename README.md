@@ -1,6 +1,6 @@
 # <div align="center">Frontend Developer (Vue) / BSS</div>
 
-# <div align="center">I am a young and talented frontend developer from Uzbekistan :))</div>
+# <div align="center">Hi 👋! My name is Nasirov Abdurahim. I'm frontend developer from Uzbekistan with love</div>
 
 <br />
 
