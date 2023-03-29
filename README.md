@@ -4,7 +4,7 @@
 </div>  
   
 
-# <div align="center">Frontend Developer (Vue) / BSS</div>
+# <div align="center">Frontend Developer (Vue) / BFF</div>
 
 # <div align="center">Hi 👋! I'm Nasirov Abdurahim. I'm frontend developer from Uzbekistan with love</div>
 
