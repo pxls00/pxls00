@@ -70,8 +70,8 @@
 
 <br/>
 
-<div aling="center">
-<img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=pxls00&show_icons=true&locale=en&theme=vue-dark&disable_animations=false&hide_border=true" alt="pxls00" />
+<div align="center">
+<img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=pxls00&show_icons=true&locale=en&theme=vue-dark&disable_animations=false&hide_border=true" alt="pxls00" />
 
-<img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=pxls00&theme=vue-dark&disable_animations=false&hide_border=true" alt="pxls00" />
+<img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=pxls00&theme=vue-dark&disable_animations=false&hide_border=true" alt="pxls00" />
 </div>
