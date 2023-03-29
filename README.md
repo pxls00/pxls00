@@ -81,3 +81,5 @@
 
 <img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=pxls00&theme=vue-dark&disable_animations=false&hide_border=true" alt="pxls00" />
 </div>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/pxls00/pxls00/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/pxls00/pxls00/output/github-contribution-grid-snake.svg#gh-light-mode-only)
