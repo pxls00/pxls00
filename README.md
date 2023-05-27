@@ -11,7 +11,6 @@
 <br />
 
 - ✉️ How to reach me [abdurahimnasirov123@gmail.com](mailto:abdurahimnasirov123@gmail.com)
-- ![image title](https://rushter.com/counter.svg)
 
 <br/>
 
