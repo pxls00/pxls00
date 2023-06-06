@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#5056ff&height=180&section=header&text=NasirovAbdurahim&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=NazarovAsadbek&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=NasirovAbdurahim&theme=react-dark&hide_border=true&area=true" />
@@ -84,4 +84,5 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#5056ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
