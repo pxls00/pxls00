@@ -68,7 +68,6 @@
 <img style="margin: 10px;" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 </td>
 </tr>
@@ -81,3 +80,8 @@
 
 <img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=pxls00&theme=vue-dark&disable_animations=false&hide_border=true" alt="pxls00" />
 </div>
+
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
