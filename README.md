@@ -3,11 +3,6 @@
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=NasirovAbdurahim&theme=react-dark&hide_border=true&area=true" />
 </div> 
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/pxls00/pxls00/main/headergitdark.gif#gh-dark-mode-only" align="center" height="300" />
-<img src="https://raw.githubusercontent.com/pxls00/pxls00/main/headergitlight.gif#gh-light-mode-only" align="center" height="300" />
-</div>  
   
 
 # <div align="center">Frontend Developer (Vue) / BFF</div>
