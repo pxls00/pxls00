@@ -1,3 +1,9 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=NasirovAbdurahim&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<div align="center">
+   <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=NasirovAbdurahim&theme=react-dark&hide_border=true&area=true" />
+</div> 
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/pxls00/pxls00/main/headergitdark.gif#gh-dark-mode-only" align="center" height="300" />
 <img src="https://raw.githubusercontent.com/pxls00/pxls00/main/headergitlight.gif#gh-light-mode-only" align="center" height="300" />
@@ -5,8 +11,6 @@
   
 
 # <div align="center">Frontend Developer (Vue) / BFF</div>
-
-# <div align="center">Hi 👋! I'm Nasirov Abdurahim. I'm frontend developer from Uzbekistan with love</div>
 
 <br />
 
@@ -68,6 +72,8 @@
 
 <img style="margin: 10px;" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 </td>
 </tr>
