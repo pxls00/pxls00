@@ -70,16 +70,8 @@
 </table>
 
 <br/>
-[![open issue][20]][20]
-[![discuss][21]][21]
-[![install package][22]][22]
-[![use template][23]][23]
-[![github action][24]][24]
-[20]: https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened
-[21]: https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black
-[22]: https://custom-icon-badges.demolab.com/badge/-Install%20Package-gold?style=for-the-badge&logo=package&logoColor=black
-[23]: https://custom-icon-badges.demolab.com/badge/-Use%20Template-teal?style=for-the-badge&logo=repo-template&logoColor=white
-[24]: https://custom-icon-badges.demolab.com/badge/-Use%20GitHub%20Action-blue?style=for-the-badge&logo=workflow&logoColor=white
+
+
 
 <br/>
 
