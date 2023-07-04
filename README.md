@@ -5,10 +5,6 @@
 
 <br />
 
-- ✉️ How to reach me [abdurahimnasirov123@gmail.com](mailto:abdurahimnasirov123@gmail.com)
-
-<br/>
-
 <table>
 <tr>
 <td valign="top" width="33%">
