@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Nasirov&nbsp;Abdurahim&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
   
 
-# <div align="center">Frontend Developer (Vue) / BFF</div>
+# <div align="center">Frontend Engineer</div>
 
 <br />
 
